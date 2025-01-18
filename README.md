@@ -1,7 +1,7 @@
 Here is an updated README file for you:
 
 
-# Hi there, this is Akshay!👋
+# Hi there, this is Rishabh!👋
 
 I'm Rishabh Sharma
 Currently studying in National Institute of Technology Durgapur, India.
