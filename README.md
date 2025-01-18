@@ -67,7 +67,7 @@ Here are some of my notable projects:
 ## 📫 Let's Connect
 
 - **LinkedIn**: https://www.linkedin.com/in/rishabh000/
-- **Twitter**: [@https://x.com/FlareRishabh](#)
+- **Twitter**: [https://x.com/FlareRishabh](#)
 - **Email**: rishabhsharma8734@gmail.com
 - **GitHub**: [github.com/rish672003](https://github.com/rish672003)
 
