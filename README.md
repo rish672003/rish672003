@@ -69,7 +69,7 @@ Here are some of my notable projects:
 - **LinkedIn**: https://www.linkedin.com/in/rishabh000/
 - **Twitter**: [https://x.com/FlareRishabh](#)
 - **Email**: rishabhsharma8734@gmail.com
-- **GitHub**: [github.com/rish672003](https://github.com/rish672003)
+
 
 Feel free to connect with me for collaborations, discussions, or simply to say hi! 😊
 
