@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 - 💻 **Learning**: C++, ReactJS, Data Structures, and Algorithms (following Love Babbar's DSA resources).
 - 🤖 **Robotics Enthusiast**: Working on building and programming robots.
 - 🏆 **Achievements**: Secured 4th rank in the global Bizcup event for innovative startup ideas.
-- 🚀 **Current Projects**: 
-  - [GeminiClone](https://github.com/rish672003/GeminiClone): A ReactJS-based project.
-  - Binary Search Trees: Studying and implementing BSTs, with progress uploaded here.
-- 🌱 **Daily Problem Solver**: Solving LeetCode problems every day. Recent: ['916. Word Subsets'](https://leetcode.com/problemset/all/).
 
 ---
 
