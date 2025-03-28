@@ -66,7 +66,6 @@ Here are some of my notable projects:
 - **Twitter**: [https://x.com/FlareRishabh](#)
 - **Email**: rishabhsharma8734@gmail.com
 
-https://raw.githubusercontent.com/rish672003rish672003/output/github-contribution-grid-snake-dark.svg
 Feel free to connect with me for collaborations, discussions, or simply to say hi! 😊
 
 ---
