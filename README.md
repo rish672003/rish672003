@@ -1,7 +1,7 @@
 
 # Hi there, I'm Rishabh! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and exploring new technologies. Currently, I'm a **3rd-year student at NIT Durgapur**, diving deep into **Data Structures, Algorithms, Web Development**, and **Robotics**. 🚀
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and exploring new technologies. Currently, I'm a **3rd-year student at NIT Durgapur**, diving deep into **Data Structures, Algorithms, Web Development**, and **Data analyst**. 🚀
 
 ---
 
