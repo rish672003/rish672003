@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 ## 🌟 About Me
 
-- 🎓 **Student**: 3rd Year at NIT Durgapur.
+- 🎓 **Student**:final Year at NIT Durgapur.
 - 💻 **Learning**: C++, ReactJS, Data Structures, and Algorithms (following Love Babbar's DSA resources).
 - 🤖 **Robotics Enthusiast**: Working on building and programming robots.
 - 🏆 **Achievements**: Secured 4th rank in the global Bizcup event for innovative startup ideas.
